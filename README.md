@@ -1,2 +1,9 @@
-# Group1
-Dylan, Lucas, Scott, Jared, Gia, Christian
+# Alpha Secret Agents
+
+## Members:
+- Dylan
+- Lucas
+- Scott
+- Jared
+- Gia
+- Christian
