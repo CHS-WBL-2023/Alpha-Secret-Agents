@@ -1,6 +1,6 @@
 Record your Design Challenge Statements below
 
-Dylan:
+Dylan: We will create a service that will help students see what their GPA is as well as help with educational performance by the middle of April, in order to be in time for final exams.
 
 Christian:
 
