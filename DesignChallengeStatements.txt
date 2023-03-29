@@ -10,5 +10,5 @@ Gia:
 
 Lucas: Create a website for potential students who want to check their grades after april break in order to help students get better grades
 
-Scott:
+Scott: Create a website for high school students who hope to get their GPA higher to send to colleges before the deadlines 
 
