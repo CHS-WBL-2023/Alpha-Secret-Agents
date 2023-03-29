@@ -11,7 +11,7 @@ Community
 
 **What problem does your project solve? **
 
-Students who are unsure what their GPA is
+Students who are unsure what their GPA is, students who want to find out what grade they need to get on their next test to not be failing, students who need academic questions to be answered
 
 
 **Is it a “vitamin” or a “painkiller”? Why?**
