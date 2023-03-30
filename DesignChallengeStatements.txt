@@ -4,7 +4,7 @@ Dylan: We will create a service that will help students see what their GPA is as
 
 Christian:
 
-Jared:
+Jared: Make a resource that allows students to calculate future grades using their current grades to reduce stress.
 
 Gia:
 
