@@ -6,7 +6,7 @@ Christian:
 
 Jared: Make a resource that allows students to calculate future grades using their current grades to reduce stress.
 
-Gia:
+Gia: Create a product that assists students in calculating their GPA and grades they need to pass.
 
 Lucas: Create a website for potential students who want to check their grades after april break in order to help students get better grades
 
